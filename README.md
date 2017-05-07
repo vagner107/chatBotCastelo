@@ -1,3 +1,11 @@
+
+Projeto desenvolvido durante o primeiro hackathon no Castelo - ChatBot SuperCobrança
+
+Nome Equipe: SuperCobrança
+
+Equipe: Vagner Araújo, Lucas fernander, Lendro abbdala, Alison Pedro
+
+
 This README.md file is displayed on your project page. You should edit this 
 file to describe your project, including instructions for building and 
 running the project, pointers to the license under which you are making the 
