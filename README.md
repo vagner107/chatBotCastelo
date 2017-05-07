@@ -1,5 +1,5 @@
 
-Projeto desenvolvido durante o primeiro hackathon no Castelo - ChatBot SuperCobrança
+Projeto desenvolvido durante o primeiro hackathon no Castelo - ChatBot Webhook SuperCobrança
 
 Nome Equipe: SuperCobrança
 
